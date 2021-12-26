@@ -1,1 +1,1 @@
-# solour-project
+# solar_power
